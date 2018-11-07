@@ -2,4 +2,4 @@
 
 
 ## Screenshot
-![Finished App](./Quizzler.gif)
+![Finished App](./images/Quizzler.gif)
